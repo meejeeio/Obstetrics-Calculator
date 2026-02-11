@@ -63,7 +63,7 @@ All calculations are performed using **Nepali (B.S.) date input**.
 - Primary Health Care Centers
 - Birthing Centers and Hospitals in Nepal
 
----
+--- 
 
 ## Installation for Offline Clinical Use (Android)
 
