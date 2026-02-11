@@ -10,7 +10,7 @@ using the **Last Menstrual Period (LMP) in Nepali (Bikram Sambat - B.S.) date fo
 🔗 Live Application:  
 https://meejeeio.github.io/Obstetrics-Calculator/
 
----
+---  
 
 ## Abstract
 
